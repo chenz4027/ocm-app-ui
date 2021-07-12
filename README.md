@@ -92,12 +92,6 @@ subscription.apps.open-cluster-management.io/helloworld-app-subscription-1 creat
 placementrule.apps.open-cluster-management.io/helloworld-app-placement-1 created
 ```
 
-4. Wait for 1-2 minutes, hover over to the multicloud-console route and navigate to /applications. Find the newly created application with name ` helloworld-app`. Click the name.
-
-The Topology page will show the information based on the selected app and related apps. Clicking the nodes will show details about the selected type of resources.
-
-![image](images/Topology.png)
-
 # References
 
 1. [open-cluster-management.io](https://open-cluster-management.io) - the official project website.
