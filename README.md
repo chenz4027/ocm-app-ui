@@ -10,7 +10,7 @@ The application management is a component of the [open-cluster-management.io](ht
 
 4: Application: Used to select all of the subscriptions that are part of your application (a visual aid)
 
-<img src="images/Application_model.jpg" alt="Application Model" width="100"/>
+![image](images/Application_model.jpg)
 
 # Getting started
 
@@ -96,7 +96,7 @@ placementrule.apps.open-cluster-management.io/helloworld-app-placement-1 created
 
 The Topology page will show the information based on the selected app and related apps. Clicking the nodes will show details about the selected type of resources.
 
-<img src="images/Topology.png" alt="Application Model" width="100"/>
+![image](images/Topology.png)
 
 # References
 
