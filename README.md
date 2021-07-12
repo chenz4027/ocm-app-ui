@@ -96,6 +96,8 @@ placementrule.apps.open-cluster-management.io/helloworld-app-placement-1 created
 
 The Topology page will show the information based on the selected app and related apps. Clicking the nodes will show details about the selected type of resources.
 
+<img src="images/Topology.png" alt="Application Model" width="100"/>
+
 # References
 
 1. [open-cluster-management.io](https://open-cluster-management.io) - the official project website.
